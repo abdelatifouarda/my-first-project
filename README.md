@@ -1,4 +1,4 @@
-# Breast Cancer Data Analysis Project
+# Breast Cancer Data Analysis using Python and Machine Learning
 
 ## 📌 Project Overview
 This project is a simple data analysis and machine learning project completed during my data analysis classes.
